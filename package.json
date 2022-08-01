@@ -1,0 +1,25 @@
+{
+  "name": "upscaler-cli",
+  "version": "0.0.1",
+  "description": "CLI for UpscalerJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakens6/upscaler-cli.git"
+  },
+  "author": "drake boley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drakens6/upscaler-cli/issues"
+  },
+  "homepage": "https://github.com/drakens6/upscaler-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.4.0",
+    "conf": "^10.2.0",
+    "upscalerjs": "^0.1.0"
+  }
+}
